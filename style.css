@@ -1,0 +1,42 @@
+body {
+text-align: center;
+font-family: Nato, Sans, Cond;
+background: url('img/Lain_bear.webp') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+color: Red;
+
+}
+table {
+  border-collapse: collapse;
+  width: 50%;
+  color: lime;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.header {
+  overflow: hidden;
+  background:rgba(0, 0, 0, 0.95);
+  padding: 20px 10px;
+}
+.footer {
+	
+}
+.overlay {
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -20%);
+  z-index: 1000;
+  width: 65%;
+  
+  background:rgba(0, 0, 0, 0.95);  /*note to self: 0.95 at the end is the same as opacity: 0.95;*/
+  display: inline
+}
