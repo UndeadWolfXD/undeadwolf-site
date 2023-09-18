@@ -27,7 +27,11 @@ td, th {
   padding: 20px 10px;
 }
 .footer {
-	
+	background:rgba(0, 0, 0, 1);
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	align: left;
 }
 .overlay {
   position: absolute;

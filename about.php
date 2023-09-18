@@ -10,14 +10,19 @@ include_once 'header.php'
 			<br>
 			Hobbies and interests
 		</h1>
-		<h2>Am i a cat or a dog person?</h2>
-		<img src="img/happy_kitten.webp" alt=happy_kitten width="400">
-		<h2>Cats all the way baby!<br>I am partial to a good old dog tho</h2>
+		<h2>
+		<details>
+		<summary>
+		Am i a cat or a dog person?
+		</summary>
+		<img src="img/happy_kitten.webp" alt=happy_kitten width="400"><br>
+		Cats all the way baby!<br>I am partial to a good old dog tho
+		</details>
+		</h2>
 		<p>I like anime, manga, rock music, drinking and computers are pretty cool as well<br>heres some of my top 3 favs of my topics are</p>
 		<details>
 		<summary>
 			Anime:
-		<span class="what the fuck am i doing">
 		</summary>
 		<p>
 			3: Neon Genesis Evangelion: The End Of Evangelion<br>
@@ -31,7 +36,6 @@ include_once 'header.php'
 		<details>
 		<summary>
 			Manga:
-		<span class="what the fuck am i doing">
 		</summary>
 		<p>
 		</p>
@@ -39,7 +43,6 @@ include_once 'header.php'
 		<details>
 		<summary>
 			Bands:
-		<span class="what the fuck am i doing">
 		</summary>
 		<p>
 		</p>
@@ -47,7 +50,6 @@ include_once 'header.php'
 		<details>
 		<summary>
 			Games:
-		<span class="what the fuck am i doing">
 		</summary>
 		<p>
 		</p>
@@ -55,7 +57,6 @@ include_once 'header.php'
 		<details>
 		<summary>
 			Computer things?: idk im running out of ideas
-		<span class="what the fuck am i doing">
 		</summary>
 		<p>
 		</p>
