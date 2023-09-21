@@ -31,6 +31,3 @@
   <div class="snowflake">
     <span style="color: red">⛧</span>
   </div>
-  <div class="snowflake">
-    ☤
-  </div>

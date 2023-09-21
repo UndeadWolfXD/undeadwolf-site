@@ -16,8 +16,8 @@ include_once 'header.php'
       <p>link to source code: <a href="https://github.com/UndeadWolfXD/undeadwolf-site">https://github.com/UndeadWolfXD/undeadwolf-site</a></p>  
   		<p>
         This is probably my first real project that has any point.<br>
-        Everything else up up untill now has most just been small programs ive made like timers, plassword managers or calculators.<br>
-        Thought it might be a good idea to make a website for myself as practce as i want to learn php and patch up the holes in my css knollege as im considering going into webdev but cant lie, as of writing this im struggling to get along with debians repositories and setting up docker. who knows maybe i could just run an arch server. whats life without a little danger?
+        Everything else up until now has mostly just been small programs ive made like timers, password managers or calculators.<br>
+        Thought it might be a good idea to make a website for myself as practice as i want to learn php and patch up the holes in my css knowledge as im considering going into webdev but cant lie, as of writing this im struggling to get along with debians repositories and setting up docker. who knows maybe i could just run an arch server. whats life without a little danger?
       </p>
     </div>
 		</details>
@@ -45,6 +45,13 @@ include_once 'header.php'
     </details>
 		</details>
 </div>
+
+
+<div class="page-mascot">
+  <img src="img/lain.png" alt="Lain_Iwakura" width="150">
+</div>
+
+
 <?php
 include_once 'footer.php'
 ?>

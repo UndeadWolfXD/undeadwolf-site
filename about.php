@@ -8,7 +8,9 @@ include_once 'header.php'
 			<br>
 			Hobbies and interests
 		</h1>
+    <h3>aspiring computer wizard</h3>
 		<h2>
+     
 		<details>
 		<summary>
 		Am i a cat or a dog person?
@@ -59,7 +61,23 @@ include_once 'header.php'
 		<p>
 		</p>
 		</details>
+    <h2>Links</h2>
+    <a href="https://twitter.com/UndeadW18971508">Twitter</a><br>
+    <a href="https://spacehey.com/undeadwolf">SpaceHey</a><br>
+    <a href="https://github.com/UndeadWolfXD">Github</a><br>
+    <a href="https://myanimelist.net/profile/UndeadWolfXD">MyAnimeList</a><br>
 	</div>
+
+
+<div class="page-mascot">
+  <img src="img/sayori.png" alt="best_girl" width="150">
+</div>
+
+
+<?php
+include_once 'snow.php'
+?>
+
 
 <?php
 include_once 'footer.php'
